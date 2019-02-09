@@ -1,6 +1,6 @@
 # Huffman-LZW-coding-in-Multimedia-System
 Lossless data compression on WAV and BMP file, by utilizing Huffman and LZW algorithms
-#### Programming Languages Used: Java
+#### Programming Languages: Java
 #### School: SFU
 #### Coruse: CMPT 365 Multimedia System 
 #### Description
